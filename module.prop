@@ -1,7 +1,6 @@
-id=MMT-Ex
-name=Magisk Module Template Extended
-version=v1.4
-versionCode=5
-author=Zackptg5
-description=
-support=https://forum.xda-developers.com/apps/magisk/MMT-Extended
+id=dualspeakers-op3-3t
+name=Dual Speakers for OP3/3T devices
+version=3.0
+versionCode=3
+author=TarD3X
+description=Enable earpiece as speaker on OnePlus 3/3T devices
